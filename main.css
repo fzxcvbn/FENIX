@@ -29,3 +29,15 @@ body {
   text-align:left;
   color: white;
 }
+
+.result {
+    width: 320px;
+    height: 260px;
+    margin: 10px auto;
+    background-image: url('img/ДИАГРАММА.png');
+    border-radius: 30px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 24px;
+    box-sizing: border-box;
+}
