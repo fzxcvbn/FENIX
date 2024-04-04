@@ -44,7 +44,6 @@
 
 .button{
     margin-top: 290px;
-
 }
 
 body{
@@ -100,4 +99,8 @@ form.chat-message{
 
 .msg-user, .msg-support{
     display: none;
+}
+
+a{
+    text-decoration: none;
 }
